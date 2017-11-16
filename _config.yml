@@ -5,8 +5,8 @@
 
 # Site
 title: Rex' Work Note
-subtitle: Meet success like a gentleman and disaster like a man.  - Winston Churchill, British Prime Minister
-description: AAVBBBD
+subtitle: 
+description: Meet success like a gentleman and disaster like a man.
 author: Rex Huang
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-tw
@@ -66,7 +66,7 @@ feed:
 ## Docs: https://help.github.com/articles/configuring-jekyll-plugins/
 plugins:
 # jemoji conficts with toc in some no-ascii post
-# - jemoji
+ - jemoji
  - jekyll-sitemap
  - jekyll-feed
 
@@ -150,9 +150,9 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
+#scheme: Muse
 #scheme: Mist
-#scheme: Pisces
+scheme: Pisces
 
 
 # ---------------------------------------------------------------
