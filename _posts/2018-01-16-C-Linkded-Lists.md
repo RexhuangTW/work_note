@@ -293,4 +293,4 @@ int main(){
 
 以上就是 single-linked list的基本操作方式。
 
-本文完整Sample code : 
+本文完整[Sample code](https://raw.githubusercontent.com/RexhuangTW/work_note/master/Example/linked_list.c)
